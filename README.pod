@@ -1,3 +1,7 @@
+=head1 Frank604's notes
+
+As you can read below, knopwob doesn't have the time to maintain the dunst project.  However, there is a crucial commit by kingcody that adds svg icon support.  I've merged those commits in this fork.
+
 =head1 UNMAINTAINED
 
 I don't have the time and motivation anymore to properly maintain this project.
